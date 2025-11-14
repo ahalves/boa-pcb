@@ -4046,7 +4046,7 @@
 		(uuid "f63b070a-0112-48e7-8483-a8a72a6dcc5c")
 	)
 	(gr_text "| x o o o | o o o x | o x o o | o o x o | x x o o | o o x x | x o x o | o x o x | x x x x \n|    <    |    >    |    +    |    -    |     [      |        ]     |       .        |        ,       |       ⌫       "
-		(at 102 75 0)
+		(at 101.5 75 0)
 		(layer "F.SilkS")
 		(uuid "b8d0fed8-30b5-4318-83e3-d49fc53f71c0")
 		(effects
