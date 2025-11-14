@@ -12,3 +12,9 @@ Completed the schematic.
 Made the PCB look nice, though I haven't routed traces yet :pf:
 
 <img width="765" height="569" alt="image" src="https://github.com/user-attachments/assets/3059dccd-0a05-4543-9da1-4f3a1eeaeeff" />
+
+## 14 November 2025 - 10 minutes
+
+Routed traces
+
+<img width="1226" height="441" alt="image" src="https://github.com/user-attachments/assets/b964c1ea-63e8-4c03-8e9f-3c13a846f051" />
