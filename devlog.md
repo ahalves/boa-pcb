@@ -36,3 +36,6 @@ Did some coding, yet to implement the keypresses.
 
 <img width="349" height="612" alt="image" src="https://github.com/user-attachments/assets/dce0349a-0aaa-401d-ae09-131f84bd0001" />
 
+## 14 November 2025 - 40 minutes
+
+Finished the code!
