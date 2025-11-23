@@ -39,3 +39,9 @@ Did some coding, yet to implement the keypresses.
 ## 14 November 2025 - 40 minutes
 
 Finished the code!
+
+# 23 November 2025 - 20 minutes
+
+big refactor - now it's a blackjack game... need to code
+
+<img width="1235" height="525" alt="image" src="https://github.com/user-attachments/assets/67e1afd2-1fb3-46bd-8771-5e8596a083c1" />
