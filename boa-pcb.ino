@@ -75,7 +75,9 @@ void loop() {
       else if (!digitalRead(bstand)) {
         playertotal += draw();
         blinkScore(lplayer, playertotal);
+        break;
       }
+    
     }
     
 
@@ -134,6 +136,7 @@ void loop() {
     
   }  
 }
+
 
 
 
